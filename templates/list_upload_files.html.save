@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+</head>
+<body>
+    <ul class="slides"> 
+        {% for item in input_files %}
+		<li>
+		    {{ item.slug }}
+		    {% for file in item.files.all %}
+		       {{ file.upload_file }}
+		    {% endfor %}
+		</li>
+		<li>
+			<form>
+				<input type="submit" value="QC"></input>
+			</form>
+		</li>
+
+        {% endfor %}
+    </ul>
+</body>
+</html>
+

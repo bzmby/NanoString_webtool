@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+</head>
+<body>
+    <a href="/qc">Run Group Comparison</a>
+    <ul class="slides"> 
+        {% for item in input_files %}
+		<li>
+		    {{ item.slug }}
+		    {% for file in item.files.all %}
+		       {{ file.upload_file }}
+		    {% endfor %}
+		</li>
+		<li>
+			<form method=POST action="upload_files" class="form-group">
+                        {% csrf_token %}
+                                <input value="{{item.id}}" name="id" type="hidden"/> 
+				<input type="submit" value="QC"></input>
+			</form>
+		</li>
+
+        {% endfor %}
+    </ul>
+</body>
+</html>

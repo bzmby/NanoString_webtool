@@ -1,0 +1,13 @@
+sample	group
+"X.home.john.projects.ns.ns.media.uploads.input_file.2019.11.23.20190628_CFMPB576run4_CF33456_02_RO95ZEC.RCC"	1
+"X.home.john.projects.ns.ns.media.uploads.input_file.2019.11.23.20190628_CFMPB576run4_CF33461_03_W9LHxa0.RCC"	1
+"X.home.john.projects.ns.ns.media.uploads.input_file.2019.11.23.20190628_CFMPB576run4_CF33463_04_5TcOKL1.RCC"	2
+"X.home.john.projects.ns.ns.media.uploads.input_file.2019.11.23.20190628_CFMPB576run4_CF33466_05_pDWHTK3.RCC"	1
+"X.home.john.projects.ns.ns.media.uploads.input_file.2019.11.23.20190628_CFMPB576run4_CF33467_06_8wKrE6M.RCC"	2
+"X.home.john.projects.ns.ns.media.uploads.input_file.2019.11.23.20190628_CFMPB576run4_CF33501_07_EE20VNr.RCC"	1
+"X.home.john.projects.ns.ns.media.uploads.input_file.2019.11.23.20190628_CFMPB576run4_CF33502_08_soM9mTV.RCC"	1
+"X.home.john.projects.ns.ns.media.uploads.input_file.2019.11.23.20190628_CFMPB576run4_CF33504_09_REk8ct4.RCC"	1
+"X.home.john.projects.ns.ns.media.uploads.input_file.2019.11.23.20190628_CFMPB576run4_CF33855_10_leTLeM7.RCC"	2
+"X.home.john.projects.ns.ns.media.uploads.input_file.2019.11.23.20190628_CFMPB576run4_CF33301_01_dDTxjdW.RCC"	2
+"X.home.john.projects.ns.ns.media.uploads.input_file.2019.11.23.20190628_CFMPB576run4_CF33856_11_qaTZRZi.RCC"	1
+"X.home.john.projects.ns.ns.media.uploads.input_file.2019.11.23.20190628_CFMPB576run4_CF33857_12_k6VKIU7.RCC"	2

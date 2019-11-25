@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+</head>
+<body>
+    <ul class="slides"> 
+        {% for item in qcs %}
+		<li>
+		    {{ item.input_file.slug }}
+			<form method=POST action="qc" class="form-group">
+				{% csrf_token %}
+				<input type="hidden" name="id" value="{{item.id}}"/>
+				<input type="text" name="gene" />
+				<input type="submit" value="Group Comaprison"></input>
+			</form>
+		</li>
+
+        {% endfor %}
+    </ul>
+</body>
+</html>
